@@ -1,9 +1,9 @@
-# typeless-stt-react
+# typeless-stt-js
 
 ## Installation
 
 ```bash
-npm install typeless-stt-react
+npm install typeless-stt-js
 ```
 
 ## Documentation

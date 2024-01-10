@@ -1,1 +1,1 @@
-export { useRecordAudio } from "./useRecordAudio";
+export { AudioRecorder } from "./AudioRecorder";
